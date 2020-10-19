@@ -1,5 +1,7 @@
 # Pandas Profiling
 
+Note: pip ugrade to latest version !!!
+
 ![Pandas Profiling Logo Header](https://pandas-profiling.github.io/pandas-profiling/docs/assets/logo_header.png)
 
 [![Build Status](https://travis-ci.com/pandas-profiling/pandas-profiling.svg?branch=master)](https://travis-ci.com/pandas-profiling/pandas-profiling)
